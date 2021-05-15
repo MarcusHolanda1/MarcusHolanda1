@@ -1,16 +1,13 @@
-### Hi there 👋
+# HEY :wave: 
 
-<!--
-**MarcusHolanda1/MarcusHolanda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marcus, I am passionate about programming and I want to build a legacy in the area and distribute all my knowledge in the near future.
 
-Here are some ideas to get you started:
+####
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍I am Brazilian 🇧🇷 and currently live in the Federal District 
+- 🧑🏻‍💻 Developer trainee at [PaP](https://www.papmob.com/)
+
+Contact by 👇🏻
+
+![Linkedin Badge](https://img.shields.io/badge/-Marcus%20Holanda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-holanda-878b011b7/)
+![Gmail Badge](https://img.shields.io/badge/-guimaraes.marcusvinicius@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guimaraes.marcusvinicius@gmail.com)
