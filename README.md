@@ -9,5 +9,5 @@ My name is Marcus, I am passionate about programming and I want to build a legac
 
 Contact by 👇🏻
 
-![Linkedin Badge](https://img.shields.io/badge/-Marcus%20Holanda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-holanda-878b011b7/)
-![Gmail Badge](https://img.shields.io/badge/-guimaraes.marcusvinicius@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guimaraes.marcusvinicius@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcus%20Holanda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-holanda-878b011b7/)](https://www.linkedin.com/in/marcus-holanda-878b011b7/) 
+
