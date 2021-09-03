@@ -1,6 +1,6 @@
 # HEY :wave: 
 
-My name is Marcus, I am passionate about programming and I want to build a legacy in the area and distribute all my knowledge in the near future.
+I'm just a hard-working front-end developer looking forever acquire new knowledge, experience and new challenges. Currently I work with Mobile development at PaP.
 
 ####
 
