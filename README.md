@@ -1,6 +1,6 @@
 # HEY :wave: I'm Marcus Holanda
 
-I'm just a hard-working front-end developer looking forever acquire new knowledge, experience and new challenges. Currently I work with Mobile development at PaP.
+I'm just a hard-working front-end developer looking forever acquire new knowledge, experience and new challenges.
 
 ####
 
