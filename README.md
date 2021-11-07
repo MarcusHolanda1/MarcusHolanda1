@@ -5,7 +5,7 @@ I'm just a hard-working front-end developer looking forever acquire new knowledg
 ####
 
 ##### 📍 I am Brazilian 🇧🇷 and currently live in the Federal District 
-##### 🧑🏻‍💻 Front-end Developer | ReactJS | ReactNative
+##### 🧑🏻‍💻 ReactJS developer at Supera Inovação em Tecnologia
 
  <div>
   <a href="https://github.com/MarcusHolanda1">
