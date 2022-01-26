@@ -5,7 +5,7 @@ I'm just a hard-working front-end developer looking forever acquire new knowledg
 ####
 
 ##### 📍 I am Brazilian 🇧🇷 and currently live in the Federal District 
-##### :pouting_man:	 :computer:	 React Native developer at Supera Inovação em Tecnologia
+##### :pouting_man:	 :computer:	 Mobile developer at Supera Inovação em Tecnologia
 
  <div>
   <a href="https://github.com/MarcusHolanda1">
