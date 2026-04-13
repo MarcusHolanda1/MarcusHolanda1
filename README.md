@@ -5,7 +5,7 @@ I'm just a hard-working front-end developer looking forever acquire new knowledg
 ####
 
 ##### 📍 I am Brazilian 🇧🇷 and currently live in the Federal District 
-##### :pouting_man:	 :computer:	 Mobile developer at Fortics
+##### :pouting_man:	 :computer:	 Mobile developer at BRQ@GOL-SMILES
 
  <div>
   <a href="https://github.com/MarcusHolanda1">
